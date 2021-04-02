@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lachiec
 - 👀 I’m interested in project management 
 - 🌱 I’m currently learning how to exit retirement 
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on new projects, Code and Work with Teams 
 - 📫 How to reach me through a comment 
 
 <!---
